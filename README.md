@@ -44,7 +44,7 @@ smart-resume-analyzer/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-'''
+```
 🛠️ Installation
 1. Clone the Repository
   git clone https://github.com/mihshahrait/smart-resume-analyzer.git
